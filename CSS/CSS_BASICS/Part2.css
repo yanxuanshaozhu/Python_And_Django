@@ -1,0 +1,18 @@
+body {
+  background-image: url('D:\\MyWork\\Python\\Python_And_Django\\CSS\\CSS_BASICS\\body.jpg');
+  background-repeat: repeat;
+}
+
+div {
+  background-color: blue;
+}
+
+span {
+  background: purple;
+  border-width: 3px;
+  border-style: dashed;
+}
+
+p {
+  color: yellow;
+}

@@ -1,0 +1,18 @@
+.firstDiv {
+  color: red;
+}
+.secondDiv{
+  color: blue;
+}
+#singledout {
+  color: green;
+  text-decoration: underline;
+}
+ul li{
+  color: pink;
+}
+
+ul a[href="https://yanxuanshaozhu.github.io/"]{
+  color:blue;
+  border: 1px dashed orange;
+}

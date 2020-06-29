@@ -1,0 +1,44 @@
+body {
+  background: lightblue;
+}
+
+h1 {
+  border: 1px solid black;
+}
+
+h1+p {
+  background: yellow;
+}
+
+h2 {
+  color: purple;
+}
+
+#first {
+  text-decoration: overline;
+  color: purple;
+}
+
+ol a[href="https://www.google.com"] {
+  color: red;
+}
+
+#textinputs1 {
+  border: 5px gray solid;
+}
+
+#Email {
+  border: 2px solid brown;
+}
+
+#Password {
+  border: 2px solid brown;
+}
+.lastinputs{
+  border: 4px dashed yellow;
+  background: blue;
+}
+
+#p1{
+  background: yellow;
+}
